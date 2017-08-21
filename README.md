@@ -16,4 +16,7 @@
 5. lottery.sol
   - A simple code that shows how the function works, and how we can store the data of the users into the system.
 
+6. factory_counter.sol
+  - Learning how to leverage a class in other to create other counters for other people instead of just the owner.
+
 
