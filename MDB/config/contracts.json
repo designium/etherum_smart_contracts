@@ -1,0 +1,13 @@
+{
+  "default": {
+    "gas": "auto",
+    "contracts": {
+      "MDBAccount": {
+        "deploy": false,
+        "args": [
+          "0x3c222d724c5931e4c3315b1b246cbafa81eae64c"
+        ]
+      }
+    }
+  }
+}

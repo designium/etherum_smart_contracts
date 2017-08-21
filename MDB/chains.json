@@ -1,0 +1,31 @@
+{
+  "0x1df2d39589aeca3a088cf6fc38cc73945bddb522d412ca9a49c3acf88dc3bdb6": {
+    "contracts": {
+      "0x6016069ea3c5cdc92e6f3411b8e6356a77b101b5773226ecf1a651e162bf0f58": {
+        "name": "MDBAccount",
+        "address": "0x00b22926d9c3c16aaccfb97db8f4a7c492720a06"
+      },
+      "0x4839eb97313f481c0ae0f314707431fb3d884c218943712b77b39f762696395b": {
+        "name": "MDBAccount",
+        "address": "0x81bc933d3f6e1fa1b60b34fc0120ea086c753c76"
+      },
+      "0x532dc9b31ac038cd99e14be2c7f0d043b2768663d264fdc97b2773b20a49ccca": {
+        "name": "MDBAccount",
+        "address": "0xb01d6568a7ed631565253d75b8da04591d20ec59"
+      },
+      "0x93de07a69e2d652fa3d551ac1be0f7b02a3ccc36f53ab324d95ad6d830ebee00": {
+        "name": "MDBService",
+        "address": "0xf251599f40ae81405fb711bc9111a83d1f5a5bcb"
+      },
+      "0x9914e925393cf3a4d7aa92bc189334997e00f1ae8f6682125de596687c4bc252": {
+        "name": "MDBAccount",
+        "address": "0x7ee4d1e9698350e2b450f3b0e0d737eb00021985"
+      },
+      "0x29864271bb00aaa5f021af16389c48378264c5d6b16d8100213afc92bc38f047": {
+        "name": "MDBService",
+        "address": "0xcc23ce7566408526bf789baeeb09e3b30bc81ff2"
+      }
+    },
+    "name": "development"
+  }
+}
