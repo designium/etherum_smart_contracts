@@ -68,6 +68,66 @@
       "0xba09b450bd56703d4904d2dc56baaadc16395f6958832dc236654ac461e19b04": {
         "name": "ProofExist3",
         "address": "0xe395624fcf4e54074ed5c9a5b5a4f98b29dbcbee"
+      },
+      "0x44cd2929aa008d913cedc53864a3b89dc238079f804df973cd73b7bd1aca9f90": {
+        "name": "ProofExistence",
+        "address": "0x12634ca89f16db57a373af7051e5a2a593c79f20"
+      },
+      "0x22e2423be56ac6b522e7a52cadd1073d4e7a0a1d3a1f3f8f3bbfed5414087d93": {
+        "name": "ProofExist2",
+        "address": "0x710298f6b47a5f05ae92f259e9e90b39d4d51318"
+      },
+      "0x6e90dc5c9f96ebaab98d411119939fdc1b41ced9c166b2d784d24135b28ec716": {
+        "name": "ProofExist3",
+        "address": "0xe74e988ab4a241ce21d11bb4e2c9b3cb8c5421ee"
+      },
+      "0x36576b04cfe3defc30fc8887cc1a90d2cc311ffbd1a3183b0b8d6b7f05fda87d": {
+        "name": "ProofExistence",
+        "address": "0x408b4f662ea8974c4e1e2719b9f03b7b8709f166"
+      },
+      "0xfd5cc827c6fdda093315b8adf940f47e1ea339e776fc6ef4694c7f3b651a3246": {
+        "name": "ProofExist2",
+        "address": "0x13e64003a6fa9cb053bd247e978af22ab34280d2"
+      },
+      "0xbfcf8c9af7122907a30eb9c01e63382ff6f7bf36b1f7ccf8dc2ca3e27a45ae66": {
+        "name": "ProofExist3",
+        "address": "0x5f6461e319abe53d83632dcaa80f5d9e4e63bd38"
+      },
+      "0x2913a6989ddbfd3a7237552703efb99e3613473b2ecb4917b8707002df6b01c0": {
+        "name": "Coin",
+        "address": "0x47e5554a9c4e0d101a6eee9e235197eb96d95457"
+      },
+      "0xeec58658d779a86c642ea53034bb07a0a75c25c0f5ed817f979b4c56a04bb69a": {
+        "name": "ProofExistence",
+        "address": "0x027eecb6383254aaa619ff1f2772ac9a02fb0dcd"
+      },
+      "0x638e3d466ca62458d611ec4d2a8091877f7cf3d9fd2e6b10bc7275c12ce9685b": {
+        "name": "ProofExist2",
+        "address": "0x75cf7cb092e344612ed856c369d91a3e7c2076f0"
+      },
+      "0xca3a1b7b8b4de951c7fbab7ae1b466f4858f9743294e3dd15245c8e4464afd20": {
+        "name": "ProofExist3",
+        "address": "0x91c06282cc5af9490039a23f58b24e1594eb7570"
+      },
+      "0xf08e313c37505bf1889716a9528e963f22e5a01f0a87fc4076c4e06465e54f8f": {
+        "name": "Coin",
+        "address": "0x67bc4b5b22602dd67b076fb96c9a696600182e00"
+      },
+      "0xb2c2388cf701f9f4e77e7af8a8993f56c72bf8a23c8c63cba7e343ea2347ee55": {
+        "name": "ProofExistence",
+        "address": "0xc4d3dedd42c512d132c3ce8b049ba6e3e729d48a"
+      },
+      "0x2258e734a6b0ccc0a559f13d12eb964e63deda12cd4689122e8546ed824739c8": {
+        "name": "ProofExist2",
+        "address": "0x9088d125c038ab242bbbb9738c8dfb4b6a7ba79c"
+      },
+      "0xcc28ecb442ac1ffb181553d4647d0c638ed5c38b6d9cbc05f2de642e0e536bb3": {
+        "name": "ProofExist3",
+        "address": "0xe3831690497cb5a2435d6f20d7f64c0730496c0a"
+      },
+      "0x52b811b3be5556d6b9a67668213f7a9417766efa4ffdd023730f4b7d402dc80d": {
+        "name": "Coin",
+        "address": "0x75b83212badc86e348ae35bfdd1b49ab85f1abbf"
       }
     },
     "name": "development"
