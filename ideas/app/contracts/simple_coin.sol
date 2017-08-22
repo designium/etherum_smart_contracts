@@ -19,6 +19,10 @@ contract Coin {
     return minter;
   }
 
+  function checkBalance(address _account) constant returns (uint) {
+    return balances[_account];
+  }
+
   function send(address receiver, uint amount) {
     if (balances[msg.sender] < amount) return;
     balances[msg.sender] -= amount;

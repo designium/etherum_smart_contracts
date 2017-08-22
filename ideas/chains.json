@@ -128,6 +128,22 @@
       "0x52b811b3be5556d6b9a67668213f7a9417766efa4ffdd023730f4b7d402dc80d": {
         "name": "Coin",
         "address": "0x75b83212badc86e348ae35bfdd1b49ab85f1abbf"
+      },
+      "0xd1973394881804f23aeae22c782a127984d4116b49d24bf4dfa06265df421714": {
+        "name": "ProofExistence",
+        "address": "0x672a98990b949f2b7e4ed378988b7e3085605ca0"
+      },
+      "0x19cda2fe799cb0ff139ffef911d1c277d706dc2264afc14462fe5950a7eff388": {
+        "name": "ProofExist2",
+        "address": "0x0f9aea22f5e20836a1f5cefcf0404bfaaecac0a8"
+      },
+      "0x70e0500253b0e4e75691e723f6d4736cd4f474a274343a28d1d9b78e121b0607": {
+        "name": "ProofExist3",
+        "address": "0xf89255d517c34fa2413989982203bdeb35b867a8"
+      },
+      "0x8a569bae403826f27ab29c9304b7019514e03d8dff73eca98cd4fd9d626b4cc3": {
+        "name": "Coin",
+        "address": "0xea39f46c794462ffec808e221ffdbe0b74e4ca80"
       }
     },
     "name": "development"
