@@ -27,4 +27,5 @@
 
 9. ideas
   - For all the tutorials that are just snippet of an idea or technique, they are hosted there using embark. So I don't have to deploy the contract manually with the Ethereum client.
+  * There is something weird with the Proof of existence file, i cannot name the contract as stated from the tutorial or the embark app breaks.
 
