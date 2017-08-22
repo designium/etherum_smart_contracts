@@ -19,4 +19,12 @@
 6. factory_counter.sol
   - Learning how to leverage a class in other to create other counters for other people instead of just the owner.
 
+7. embark_demo
+  - It shows how the contract can interact with the JS application.
+
+8. MDB
+  - it shows an example of inheritence and how that can be leveraged.
+
+9. ideas
+  - For all the tutorials that are just snippet of an idea or technique, they are hosted there using embark. So I don't have to deploy the contract manually with the Ethereum client.
 
