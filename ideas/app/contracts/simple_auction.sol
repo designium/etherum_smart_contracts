@@ -1,4 +1,4 @@
-pragma solidty ^0.4.11;
+pragma solidity ^0.4.11;
 
 // https://solidity.readthedocs.io/en/latest/solidity-by-example.html
 
