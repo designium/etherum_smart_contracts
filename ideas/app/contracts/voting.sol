@@ -53,7 +53,7 @@ contract Ballot {
 
     sender.voted = true;
     sender.delegate = to;
-    Voter delegate = voters[to];
+    Voter storage delegate = voters[to];
     if (delegate.voted) {
       proposals[delegate.vote].voteCount += sender.weight;
       } else {
