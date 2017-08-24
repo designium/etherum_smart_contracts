@@ -201,6 +201,26 @@
       "0x537c1cf01b21e7287f6cc6eddafe076638ad906b8c833e6b781087ca54d168ef": {
         "name": "Ballot",
         "address": "0x7aa6676c60dd8983a5b561dd74d8a9c36f3ba74d"
+      },
+      "0x286d6e227567c978d4af6c19bd03e56ffebdbe0e773824cd85b514a66dcbd8c9": {
+        "name": "ProofExistence",
+        "address": "0xf1bfb0acfee23341256321b3d35d2e88cace441e"
+      },
+      "0xca38c48596e72c48ae030182706949ec3080a7a43906d13f5d9313b19d29d5cd": {
+        "name": "ProofExist2",
+        "address": "0xfda6f3ca3fa68239ee8e128eacf656b5f36452a9"
+      },
+      "0xa933b3e0d8b318f413cf96ed0eae7ccecca4d247d394786c55274b29ddb701db": {
+        "name": "ProofExist3",
+        "address": "0x719a63de1b76e71d83bc071140d002c71ad8d1ad"
+      },
+      "0xde23963b2874ac8a4be5b3979172cc6c3b8e5dec0cdfd3a83284468441f972c1": {
+        "name": "Coin",
+        "address": "0x4cbc4f1776af499482830cf6e51bd1f481bce70c"
+      },
+      "0xb92ed2f792f6728cd3a7489755be54696577a3378e85195645d0fed0b09dd5e6": {
+        "name": "Ballot",
+        "address": "0x4c5956ea1657f2fe88794af82dfa078352b75659"
       }
     },
     "name": "development"

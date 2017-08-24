@@ -61,6 +61,31 @@ contract Ballot {
       }
   }
 
+  function vote(uint proposal) {
+    Voter storage sender = voters[msg.sender];
+    require(!sender.voted);
+    sender.voted = true;
+    sender.vote = proposal;
+
+    proposals[proposal].voteCount += sender.weight;
+
+  }
+
+  function winningProposal() constant returns (uint winningProposal) {
+    uint winningVoteCount = 0;
+    for (uint p = 0; p < proposals.length; p++) {
+      if (proposals[p].voteCount > winningVoteCount) {
+        winningVoteCount = proposals[p].voteCount;
+        winningProposal = p;
+      }
+
+    }
+  }
+
+  function winnerName() constant returns (bytes32 winnerName) {
+    winnerName = proposals[winningProposal()].name;
+  }
+
 
 
 }
