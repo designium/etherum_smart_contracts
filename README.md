@@ -34,3 +34,5 @@
 11. I finished a quick review of Javascript, even thought not directly related to Solidity, but it helps.
 
 12. I'm starting to play with Zeppelin Solidity.
+
+13. It's not easy to use Truffle. The examples are not working as expected.
