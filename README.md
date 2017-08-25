@@ -29,3 +29,8 @@
   - For all the tutorials that are just snippet of an idea or technique, they are hosted there using embark. So I don't have to deploy the contract manually with the Ethereum client.
   * There is something weird with the Proof of existence file, i cannot name the contract as stated from the tutorial or the embark app breaks.
 
+10. I finished the examples of solidity contract from the main site. I reported and did two pull request to change things that were not working in the examples;
+
+11. I finished a quick review of Javascript, even thought not directly related to Solidity, but it helps.
+
+12. I'm starting to play with Zeppelin Solidity.
