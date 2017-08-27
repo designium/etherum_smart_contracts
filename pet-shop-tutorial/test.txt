@@ -1,0 +1,188 @@
+Using network 'development'.
+
+Compiling ./contracts/Adoption.sol...
+Compiling ./test/TestAdoption.sol...
+Compiling truffle/Assert.sol...
+Compiling truffle/DeployedAddresses.sol...
+
+Compilation warnings encountered:
+
+truffle/Assert.sol:114:20: Warning: This declaration shadows an existing declaration.
+    function equal(string A, string B, string message) constant returns (bool result) {
+                   ^------^
+truffle/Assert.sol:64:5: The shadowed declaration is here:
+    uint8 constant A = uint8(byte('a'));
+    ^---------------------------------^
+
+,truffle/Assert.sol:137:23: Warning: This declaration shadows an existing declaration.
+    function notEqual(string A, string B, string message) constant returns (bool result) {
+                      ^------^
+truffle/Assert.sol:64:5: The shadowed declaration is here:
+    uint8 constant A = uint8(byte('a'));
+    ^---------------------------------^
+
+,truffle/Assert.sol:206:20: Warning: This declaration shadows an existing declaration.
+    function equal(bytes32 A, bytes32 B, string message) constant returns (bool result) {
+                   ^-------^
+truffle/Assert.sol:64:5: The shadowed declaration is here:
+    uint8 constant A = uint8(byte('a'));
+    ^---------------------------------^
+
+,truffle/Assert.sol:226:23: Warning: This declaration shadows an existing declaration.
+    function notEqual(bytes32 A, bytes32 B, string message) constant returns (bool result) {
+                      ^-------^
+truffle/Assert.sol:64:5: The shadowed declaration is here:
+    uint8 constant A = uint8(byte('a'));
+    ^---------------------------------^
+
+,truffle/Assert.sol:286:20: Warning: This declaration shadows an existing declaration.
+    function equal(address A, address B, string message) constant returns (bool result) {
+                   ^-------^
+truffle/Assert.sol:64:5: The shadowed declaration is here:
+    uint8 constant A = uint8(byte('a'));
+    ^---------------------------------^
+
+,truffle/Assert.sol:305:23: Warning: This declaration shadows an existing declaration.
+    function notEqual(address A, address B, string message) constant returns (bool result) {
+                      ^-------^
+truffle/Assert.sol:64:5: The shadowed declaration is here:
+    uint8 constant A = uint8(byte('a'));
+    ^---------------------------------^
+
+,truffle/Assert.sol:403:20: Warning: This declaration shadows an existing declaration.
+    function equal(bool A, bool B, string message) constant returns (bool result) {
+                   ^----^
+truffle/Assert.sol:64:5: The shadowed declaration is here:
+    uint8 constant A = uint8(byte('a'));
+    ^---------------------------------^
+
+,truffle/Assert.sol:426:23: Warning: This declaration shadows an existing declaration.
+    function notEqual(bool A, bool B, string message) constant returns (bool result) {
+                      ^----^
+truffle/Assert.sol:64:5: The shadowed declaration is here:
+    uint8 constant A = uint8(byte('a'));
+    ^---------------------------------^
+
+,truffle/Assert.sol:451:20: Warning: This declaration shadows an existing declaration.
+    function equal(uint A, uint B, string message) constant returns (bool result) {
+                   ^----^
+truffle/Assert.sol:64:5: The shadowed declaration is here:
+    uint8 constant A = uint8(byte('a'));
+    ^---------------------------------^
+
+,truffle/Assert.sol:474:23: Warning: This declaration shadows an existing declaration.
+    function notEqual(uint A, uint B, string message) constant returns (bool result) {
+                      ^----^
+truffle/Assert.sol:64:5: The shadowed declaration is here:
+    uint8 constant A = uint8(byte('a'));
+    ^---------------------------------^
+
+,truffle/Assert.sol:497:22: Warning: This declaration shadows an existing declaration.
+    function isAbove(uint A, uint B, string message) constant returns (bool result) {
+                     ^----^
+truffle/Assert.sol:64:5: The shadowed declaration is here:
+    uint8 constant A = uint8(byte('a'));
+    ^---------------------------------^
+
+,truffle/Assert.sol:520:24: Warning: This declaration shadows an existing declaration.
+    function isAtLeast(uint A, uint B, string message) constant returns (bool result) {
+                       ^----^
+truffle/Assert.sol:64:5: The shadowed declaration is here:
+    uint8 constant A = uint8(byte('a'));
+    ^---------------------------------^
+
+,truffle/Assert.sol:543:22: Warning: This declaration shadows an existing declaration.
+    function isBelow(uint A, uint B, string message) constant returns (bool result) {
+                     ^----^
+truffle/Assert.sol:64:5: The shadowed declaration is here:
+    uint8 constant A = uint8(byte('a'));
+    ^---------------------------------^
+
+,truffle/Assert.sol:566:23: Warning: This declaration shadows an existing declaration.
+    function isAtMost(uint A, uint B, string message) constant returns (bool result) {
+                      ^----^
+truffle/Assert.sol:64:5: The shadowed declaration is here:
+    uint8 constant A = uint8(byte('a'));
+    ^---------------------------------^
+
+,truffle/Assert.sol:635:20: Warning: This declaration shadows an existing declaration.
+    function equal(int A, int B, string message) constant returns (bool result) {
+                   ^---^
+truffle/Assert.sol:64:5: The shadowed declaration is here:
+    uint8 constant A = uint8(byte('a'));
+    ^---------------------------------^
+
+,truffle/Assert.sol:658:23: Warning: This declaration shadows an existing declaration.
+    function notEqual(int A, int B, string message) constant returns (bool result) {
+                      ^---^
+truffle/Assert.sol:64:5: The shadowed declaration is here:
+    uint8 constant A = uint8(byte('a'));
+    ^---------------------------------^
+
+,truffle/Assert.sol:681:22: Warning: This declaration shadows an existing declaration.
+    function isAbove(int A, int B, string message) constant returns (bool result) {
+                     ^---^
+truffle/Assert.sol:64:5: The shadowed declaration is here:
+    uint8 constant A = uint8(byte('a'));
+    ^---------------------------------^
+
+,truffle/Assert.sol:704:24: Warning: This declaration shadows an existing declaration.
+    function isAtLeast(int A, int B, string message) constant returns (bool result) {
+                       ^---^
+truffle/Assert.sol:64:5: The shadowed declaration is here:
+    uint8 constant A = uint8(byte('a'));
+    ^---------------------------------^
+
+,truffle/Assert.sol:727:22: Warning: This declaration shadows an existing declaration.
+    function isBelow(int A, int B, string message) constant returns (bool result) {
+                     ^---^
+truffle/Assert.sol:64:5: The shadowed declaration is here:
+    uint8 constant A = uint8(byte('a'));
+    ^---------------------------------^
+
+,truffle/Assert.sol:750:23: Warning: This declaration shadows an existing declaration.
+    function isAtMost(int A, int B, string message) constant returns (bool result) {
+                      ^---^
+truffle/Assert.sol:64:5: The shadowed declaration is here:
+    uint8 constant A = uint8(byte('a'));
+    ^---------------------------------^
+
+,truffle/Assert.sol:1267:27: Warning: This declaration shadows an existing declaration.
+    function balanceEqual(address A, uint b, string message) constant returns (bool result) {
+                          ^-------^
+truffle/Assert.sol:64:5: The shadowed declaration is here:
+    uint8 constant A = uint8(byte('a'));
+    ^---------------------------------^
+
+,truffle/Assert.sol:1287:30: Warning: This declaration shadows an existing declaration.
+    function balanceNotEqual(address A, uint b, string message) constant returns (bool result) {
+                             ^-------^
+truffle/Assert.sol:64:5: The shadowed declaration is here:
+    uint8 constant A = uint8(byte('a'));
+    ^---------------------------------^
+
+,truffle/Assert.sol:1306:28: Warning: This declaration shadows an existing declaration.
+    function balanceIsZero(address A, string message) constant returns (bool result) {
+                           ^-------^
+truffle/Assert.sol:64:5: The shadowed declaration is here:
+    uint8 constant A = uint8(byte('a'));
+    ^---------------------------------^
+
+,truffle/Assert.sol:1325:31: Warning: This declaration shadows an existing declaration.
+    function balanceIsNotZero(address A, string message) constant returns (bool result) {
+                              ^-------^
+truffle/Assert.sol:64:5: The shadowed declaration is here:
+    uint8 constant A = uint8(byte('a'));
+    ^---------------------------------^
+
+
+
+[0m[0m
+[0m  TestAdoption[0m
+  [32m  ✓[0m[90m testUserCanAdoptPet[0m[31m (95ms)[0m
+  [32m  ✓[0m[90m testGetAdopterAddressByPetId[0m[31m (76ms)[0m
+  [32m  ✓[0m[90m testGetAdopterAddressByPetIdArray[0m[31m (125ms)[0m
+
+
+[92m [0m[32m 3 passing[0m[90m (741ms)[0m
+
