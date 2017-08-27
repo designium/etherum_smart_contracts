@@ -64,10 +64,21 @@ App = {
   },
 
   markAdopted: function(adopters, account) {
-    /*
-     * Replace me...
-     */
-  }
+    var adoptionInstance;
+
+    App.contracts.Adoption.deployed().then(function(instance) {
+      adoptionInstance = Instance;
+
+      return adoptionInstance.getAdopters.call();
+    }).then(function(adopters) {
+      for(i = 0; i < adopters.length; i++) {
+        if (adopters[i] !== '0x0000000000000000000000000000000000000000') {
+          $('.panel-pet').eq(i).find('button').text('Pending...').attr('disable', true);
+        }
+      }
+    }).catch(function(err) {
+      console.log(err.message);
+    });
 
 };
 
