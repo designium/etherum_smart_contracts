@@ -36,3 +36,10 @@
 12. I'm starting to play with Zeppelin Solidity.
 
 13. It's not easy to use Truffle. The examples are not working as expected.
+
+14. Finished the Truffle pet shop example, need to either make some architectural choice about the DAPP part.
+
+  - Should I continue in the Solidity part or move to a more wholesome approach for Dapp development?
+  - I approached people on LinkedIn and email to see if they have some ideas of where I should head to to learn more.
+
+15.
