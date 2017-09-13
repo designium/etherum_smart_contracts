@@ -1,0 +1,6 @@
+strict digraph {
+  Counter
+  increment
+  getCount [color=blue]
+}
+

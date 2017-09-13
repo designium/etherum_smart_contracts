@@ -1,0 +1,18 @@
+strict digraph {
+  Purchase
+  require
+  abort
+  Aborted
+  transfer
+  confirmPurchase
+  PurchaseConfirmed
+  confirmReceived
+  ItemReceived
+  Purchase -> require
+  abort -> Aborted
+  abort -> transfer
+  confirmPurchase -> PurchaseConfirmed
+  confirmReceived -> ItemReceived
+  confirmReceived -> transfer
+}
+
