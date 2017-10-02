@@ -1,5 +1,7 @@
 # Creating my own ETH blockchain
 
+### from https://media.consensys.net/how-to-build-a-private-ethereum-blockchain-fbf3904f337
+
 1. Install geth through homebrew
 2. check: geth version
 3. geth account new
