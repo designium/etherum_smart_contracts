@@ -1,0 +1,25 @@
+{
+  "name": "eth",
+  "version": "1.0.0",
+  "description": "1. hello_world.sol   - It is the first contract deploy into the blockchain   - It shows the simple structure of the contract",
+  "main": "index.js",
+  "dependencies": {
+    "ethereum.js": "^0.2.4",
+    "web3": "^1.0.0-beta.22"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designium/etherum_smart_contracts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/designium/etherum_smart_contracts/issues"
+  },
+  "homepage": "https://github.com/designium/etherum_smart_contracts#readme"
+}
